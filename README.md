@@ -1,7 +1,9 @@
 <div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&pause=1000&color=B78AFF&center=true&vCenter=true&width=500&lines=Designer+%26+Developer+Web;Jovem+Aprendiz+%40+Alice;Apaixonado+por+c%C3%B3digo+e+IA;391+commits+e+contando..." alt="Typing SVG" />
+  
+  <h1>Leonardo Mazzuco</h1>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=b78aff&height=200&section=header&text=Leonardo%20Mazzuco&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Designer%20%26%20Developer&descSize=18&descAlignY=58&descColor=ddccff" width="100%"/>
-
+  <img src="https://komarev.com/ghpvc/?username=Mazzuc&color=b78aff&style=for-the-badge&label=VISITAS+AO+PERFIL" />
 </div>
 
 <div align="center">
